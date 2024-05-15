@@ -38,7 +38,7 @@ const Hero = () => {
             Unleash the power of blockchain technology while playing chess. Enhance your skills
             while earning SQZ (squares).
           </p>
-          <Button href="/pricing">
+          <Button href="https://chess-chat.vercel.app">
             Get started
           </Button>
         </div>
