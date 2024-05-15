@@ -1,1 +1,1 @@
-# Landing Page for SSUChess
+[# Landing Page for SSUChess](https://landing-dcij.onrender.com)
