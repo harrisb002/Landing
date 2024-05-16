@@ -2,9 +2,8 @@ import {
   collabApps,
   collabContent,
   transparencyText,
-  ssuChess,
 } from "../constants";
-import { check } from "../namedAssets";
+import { check, ssuChess } from "../namedAssets";
 import Button from "./Button";
 import Section from "./Section";
 import { LeftCurve, RightCurve } from "./design/Collaboration";
