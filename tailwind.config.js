@@ -32,6 +32,8 @@ export default {
           11: "#1B1B2E",
           12: "#2E2A41",
           13: "#6C7275",
+          14: "#BAF6CF",
+          15: "#7E7B90"
         },
       },
       fontFamily: {
