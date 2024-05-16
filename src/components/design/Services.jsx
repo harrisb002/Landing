@@ -1,4 +1,4 @@
-import { ssuChess, gradient, play } from "../../assets";
+import { ssuChess, gradient, play } from "../../namedAssets";
 import ChatBubbleWing from "../../assets/svg/ChatBubbleWing";
 
 export const Gradient = () => {

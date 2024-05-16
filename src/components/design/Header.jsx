@@ -1,4 +1,4 @@
-import { chessBackground } from "../../assets";
+import { chessBackground } from "../../namedAssets";
 
 export const Rings = () => {
   return (

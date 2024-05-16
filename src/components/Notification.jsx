@@ -1,4 +1,4 @@
-import { gameMatch } from "../assets";
+import { gameMatch } from "../namedAssets";
 import { notificationImages } from "../constants";
 
 const Notification = ({ className, title }) => {

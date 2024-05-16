@@ -26,7 +26,7 @@ import {
   benefitIcon4,
   benefitImage4,
 
-} from "../assets";
+} from "../namedAssets";
 
 export const navigation = [
   {
@@ -219,7 +219,7 @@ export const benefits = [
     id: "0",
     title: "Connect your wallet",
     text: "Enable for a secure connection to your metamask wallet.",
-    backgroundUrl: "../assets/benefits/card-1.svg",
+    backgroundUrl: "/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage1,
   },
@@ -227,7 +227,7 @@ export const benefits = [
     id: "1",
     title: "Improve everyday",
     text: "Get more familiar with a web3 application while improving in your chess abilities.",
-    backgroundUrl: "../assets/benefits/card-2.svg",
+    backgroundUrl: "/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     light: true,
@@ -236,7 +236,7 @@ export const benefits = [
     id: "2",
     title: "Feeling edgy",
     text: "Take it off with the ability to gamble your SQZ away.",
-    backgroundUrl: "../assets/benefits/card-3.svg",
+    backgroundUrl: "/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage3,
   },
@@ -244,7 +244,7 @@ export const benefits = [
     id: "3",
     title: "Hosting Chess Bots",
     text: "Create your own bot and host it here for tournaments or to allow others to play.",
-    backgroundUrl: "../assets/benefits/card-6.svg",
+    backgroundUrl: "/assets/benefits/card-6.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage4,
   },

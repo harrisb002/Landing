@@ -1,4 +1,4 @@
-import { curve, chessSmokyBackground, chessBackground } from "../assets";
+import { curve, chessSmokyBackground, chessBackground } from "../namedAssets";
 import Button from "./Button";
 import Section from "./Section";
 import { BackgroundCircles, BottomLine, Gradient } from "./design/Hero";
